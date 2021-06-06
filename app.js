@@ -1,6 +1,6 @@
 const express = require('express')
 const mongoose = require('mongoose')
-const url = 'mongodb+srv://testuser:testuser123@cluster1.aqdq6.mongodb.net/myFirstDatabase?retryWrites=true://localhost/MyDB'
+const url = 'mongodb+srv://***:****@cluster1.aqdq6.mongodb.net/myFirstDatabase?retryWrites=true://localhost/MyDB'
 
 const app = express()
 
